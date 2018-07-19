@@ -2,13 +2,6 @@ library(tidyverse)
 library(plotly)
 
 
-gg_iris <- iris %>%
-    ggplot(aes(Sepal.Width, Sepal.Length,
-               color = Species,
-               shape = Species)) +
-    geom_point() +
-    geom_smooth() +
-    ggtitle("Ooo look at that plot!")
 
 ggplotly(gg_iris)
 
