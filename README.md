@@ -12,10 +12,11 @@ Git - Version Control
 
 Here are some links about Git:
 
-<https://medium.com/@garstep/osn-what-the-hell-is-git-6afbe634c4e8>
-<http://rogerdudler.github.io/git-guide/>
-<http://happygitwithr.com/>
-<https://git-scm.com/docs/gittutorial>
+<https://medium.com/@garstep/osn-what-the-hell-is-git-6afbe634c4e8>   
+<http://rogerdudler.github.io/git-guide/>   
+<http://happygitwithr.com/>    
+<https://git-scm.com/docs/gittutorial>   
+
 
 Some Basic Git Steps on the terminal
 ------------------------------------
